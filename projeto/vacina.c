@@ -2,9 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Gustavo Gelinski RA: 2466635
-// Lucas Alves Pereira RA: 2422670
-
 typedef struct Pessoa
 {
     char nome[15];
