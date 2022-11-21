@@ -1,0 +1,4 @@
+Harry 35
+Minerva 53
+Hermione 32
+Ronald 35
